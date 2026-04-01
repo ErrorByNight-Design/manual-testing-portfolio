@@ -1,7 +1,7 @@
 # manual-testing-portfolio
-Basic test plan for Canamo+ Construction
-Manual Testing Project — Canamo Plus Construction (canamoplus.com)
-
+Basic test plan for Canamo+ Construction</br>
+Manual Testing Project — Canamo Plus Construction (canamoplus.com)</br>
+</br>
 Project Overview
 Manual test plan and bug report for a live Canadian construction company website in Montreal. This project was completed as requested by Canamo Project Manager.
 </br>
@@ -19,7 +19,7 @@ Results</br>
 19 passed, 5 failed, 1 not executed</br>
 5 defects identified and logged in Jira</br>
 </br>
-Defects Found
+Defects Found</br>
 CANAMO-001 - Quote form submits without Company Name - High</br>
 CANAMO-002 - Quote form accepts invalid email format - High</br>
 CANAMO-003 - Phone field accepts alphabetical characters - Medium</br>
