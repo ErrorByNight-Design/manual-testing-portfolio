@@ -2,8 +2,8 @@
 Basic test plan for Canamo+ Construction</br>
 Manual Testing Project — Canamo Plus Construction (canamoplus.com)</br>
 </br>
-Project Overview
-Manual test plan and bug report for a live Canadian construction company website in Montreal. This project was completed as requested by Canamo Project Manager.
+Project Overview</br>
+Manual test plan and bug report for a live Canadian construction company website in Montreal. This project was completed as requested by Canamo's Project Manager.</br>
 </br>
 What Was Tested</br>
 Navigation and internal links</br>
