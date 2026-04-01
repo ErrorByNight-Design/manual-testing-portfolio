@@ -30,3 +30,5 @@ Tools Used</br>
 Jira — bug tracking and defect lifecycle management</br>
 Excel — test plan and test case documentation</br>
 Chrome DevTools — responsiveness and mobile testing</br>
+</br>
+The work was done in late 2025, but uploaded on Github later-on as part of showcasing basic QA practical skills
